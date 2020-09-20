@@ -1,3 +1,5 @@
-# MapReduce : An introductory approach to solve WordCount problem using Map-Reduce framework
+# MapReduce :
+
+### An introductory approach to solve WordCount problem using Map-Reduce framework
 
 
