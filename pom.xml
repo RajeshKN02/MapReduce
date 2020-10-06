@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.rajesh</groupId>
   <artifactId>mapreduce</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
   <name>MapReduce</name>
   <description>First MR Program</description>
   
